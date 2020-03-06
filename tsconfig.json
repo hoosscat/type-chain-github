@@ -4,7 +4,6 @@
         "target": "ES2015",
         "sourceMap": true
     },
-    "include": [
-        
-    ]
+    "include": ["index.ts"],
+    "exclude": ["node_modules"]
 }
