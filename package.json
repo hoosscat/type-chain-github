@@ -1,0 +1,8 @@
+{
+  "name": "type-chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hoosscat/type-chain.git",
+  "author": "hooss <advance138138@gmail.com>",
+  "license": "MIT"
+}
